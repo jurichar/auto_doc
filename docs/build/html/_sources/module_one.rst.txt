@@ -1,0 +1,7 @@
+module_one
+==========
+
+.. automodule:: module_one.functions
+   :members: 
+   :undoc-members:
+   :show-inheritance:

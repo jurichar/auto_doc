@@ -1,0 +1,7 @@
+Function
+==========
+
+.. automodule:: module.function
+   :members:
+   :undoc-members:
+   :show-inheritance:
