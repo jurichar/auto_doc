@@ -1,5 +1,5 @@
 import unittest
-from module_functions.functions import sum, multiplication
+from maths.functions_maths import sum, multiplication
 
 class TestFonctions(unittest.TestCase):
 

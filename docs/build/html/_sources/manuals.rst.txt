@@ -1,7 +1,7 @@
 manuals
 ==========
 
-.. automodule:: module_manuals.manuals
+.. automodule:: manuals.manuals
    :members: 
    :undoc-members:
    :show-inheritance:

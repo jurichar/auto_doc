@@ -10,7 +10,8 @@ Welcome to auto-doc's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   functions
+   maths
+   utils
    manuals
    tests
 

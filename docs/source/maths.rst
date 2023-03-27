@@ -1,7 +1,7 @@
-functions
+maths
 ==========
 
-.. automodule:: module_functions.functions
+.. automodule:: maths.functions_maths
    :members: 
    :undoc-members:
    :show-inheritance:

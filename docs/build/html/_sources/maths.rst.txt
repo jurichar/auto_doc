@@ -1,7 +1,7 @@
-manuals
+maths
 ==========
 
-.. automodule:: manuals.manuals
+.. automodule:: maths.functions_maths
    :members: 
    :undoc-members:
    :show-inheritance:

@@ -1,7 +1,6 @@
-manuals
+utils
 ==========
-
-.. automodule:: manuals.manuals
+.. automodule:: utils.tree
    :members: 
    :undoc-members:
    :show-inheritance:
